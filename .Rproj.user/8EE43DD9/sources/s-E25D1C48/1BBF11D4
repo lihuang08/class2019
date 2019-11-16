@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573934229130.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4025756517",
+    "id" : "1BBF11D4",
+    "lastKnownWriteTime" : 1573934224,
+    "last_content_update" : 1573934224,
+    "path" : "C:/Users/huangli/Desktop/LI/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
